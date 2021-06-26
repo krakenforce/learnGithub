@@ -1,1 +1,3 @@
 funtion sd
+
+câp nhat file trên stream
